@@ -31,7 +31,7 @@ def masMenos():
 	print(l)
 
 masMenos()
-
+"""
 i=0:
 	j=0: [1,2,3,4]--¿1<2? sí-->[(2,1),3,4]
 	j=1: [2,(3,1),4]
@@ -45,7 +45,7 @@ i=1: #segunda vuelta seran 3-1 = 2 vueltas del for anidado
 i=2 #3ra vuelta seran 3-2=1 sola vuelta del for anidado:
 	j=0:[3,4,2,1] ---->[4,3,2,1]
 	j=2: #no cumple, fin
-
+"""
 
 
 
