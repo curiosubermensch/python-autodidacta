@@ -6,7 +6,7 @@ def cantLetras(nom):
     print("tu nombre tiene " , c , " letras") #los numeros con string se 
     #concatenan con coma!!!
 
-nom=input("ingresa tu nombre y te apuray ctm: ")
+nom=input("ingresa tu nombre: ")
 print("tu nombre empieza con la letra: "+nom[0])
 print("*************************************")
 
